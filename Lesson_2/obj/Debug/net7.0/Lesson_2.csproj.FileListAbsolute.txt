@@ -1,0 +1,15 @@
+C:\Users\serge\OneDrive\Рабочий стол\DV_Homeworks\Lesson_2\bin\Debug\net7.0\Lesson_2.exe
+C:\Users\serge\OneDrive\Рабочий стол\DV_Homeworks\Lesson_2\bin\Debug\net7.0\Lesson_2.deps.json
+C:\Users\serge\OneDrive\Рабочий стол\DV_Homeworks\Lesson_2\bin\Debug\net7.0\Lesson_2.runtimeconfig.json
+C:\Users\serge\OneDrive\Рабочий стол\DV_Homeworks\Lesson_2\bin\Debug\net7.0\Lesson_2.dll
+C:\Users\serge\OneDrive\Рабочий стол\DV_Homeworks\Lesson_2\bin\Debug\net7.0\Lesson_2.pdb
+C:\Users\serge\OneDrive\Рабочий стол\DV_Homeworks\Lesson_2\obj\Debug\net7.0\Lesson_2.csproj.AssemblyReference.cache
+C:\Users\serge\OneDrive\Рабочий стол\DV_Homeworks\Lesson_2\obj\Debug\net7.0\Lesson_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\OneDrive\Рабочий стол\DV_Homeworks\Lesson_2\obj\Debug\net7.0\Lesson_2.AssemblyInfoInputs.cache
+C:\Users\serge\OneDrive\Рабочий стол\DV_Homeworks\Lesson_2\obj\Debug\net7.0\Lesson_2.AssemblyInfo.cs
+C:\Users\serge\OneDrive\Рабочий стол\DV_Homeworks\Lesson_2\obj\Debug\net7.0\Lesson_2.csproj.CoreCompileInputs.cache
+C:\Users\serge\OneDrive\Рабочий стол\DV_Homeworks\Lesson_2\obj\Debug\net7.0\Lesson_2.dll
+C:\Users\serge\OneDrive\Рабочий стол\DV_Homeworks\Lesson_2\obj\Debug\net7.0\refint\Lesson_2.dll
+C:\Users\serge\OneDrive\Рабочий стол\DV_Homeworks\Lesson_2\obj\Debug\net7.0\Lesson_2.pdb
+C:\Users\serge\OneDrive\Рабочий стол\DV_Homeworks\Lesson_2\obj\Debug\net7.0\Lesson_2.genruntimeconfig.cache
+C:\Users\serge\OneDrive\Рабочий стол\DV_Homeworks\Lesson_2\obj\Debug\net7.0\ref\Lesson_2.dll
