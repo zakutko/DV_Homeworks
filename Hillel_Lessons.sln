@@ -3,33 +3,34 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First_Project", "First_Project\First_Project.csproj", "{CA5266E7-354A-43DB-8F5E-E04DA8ECA3E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "First_Project", "First_Project\First_Project.csproj", "{CA5266E7-354A-43DB-8F5E-E04DA8ECA3E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_2", "Lesson_2\Lesson_2.csproj", "{01C16953-59F5-45DD-B599-AE046805A62B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_2", "Lesson_2\Lesson_2.csproj", "{01C16953-59F5-45DD-B599-AE046805A62B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_3", "Lesson_3\Lesson_3.csproj", "{0815FFDF-9C30-4F62-8DA1-4D7DC797C498}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_3", "Lesson_3\Lesson_3.csproj", "{0815FFDF-9C30-4F62-8DA1-4D7DC797C498}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_4", "Lesson_4\Lesson_4.csproj", "{F41CC246-3928-41C6-9B7D-7C7E2CA17DA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_4", "Lesson_4\Lesson_4.csproj", "{F41CC246-3928-41C6-9B7D-7C7E2CA17DA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_5", "Lesson_5\Lesson_5.csproj", "{0C816EE0-7427-4CAA-966E-4DCA37DC1775}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_5", "Lesson_5\Lesson_5.csproj", "{0C816EE0-7427-4CAA-966E-4DCA37DC1775}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_6", "Lesson_6\Lesson_6.csproj", "{F4E3D66D-D022-4BD6-B9DB-2632DFDE6461}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_6", "Lesson_6\Lesson_6.csproj", "{F4E3D66D-D022-4BD6-B9DB-2632DFDE6461}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_7", "Lesson_7\Lesson_7.csproj", "{48D6E0FD-C835-4326-BB7D-1D28B02D208E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_7", "Lesson_7\Lesson_7.csproj", "{48D6E0FD-C835-4326-BB7D-1D28B02D208E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_8", "Lesson_8\Lesson_8.csproj", "{C920748D-3264-4BD4-AEF4-526527CB5F49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_8", "Lesson_8\Lesson_8.csproj", "{C920748D-3264-4BD4-AEF4-526527CB5F49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_9", "Lesson_9\Lesson_9.csproj", "{9FA2AA4A-2A43-4CDE-8710-7767334A6508}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_9", "Lesson_9\Lesson_9.csproj", "{9FA2AA4A-2A43-4CDE-8710-7767334A6508}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_10", "Lesson_10\Lesson_10.csproj", "{AEA58C46-6DFA-4285-A12A-DCC450640AEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_10", "Lesson_10\Lesson_10.csproj", "{AEA58C46-6DFA-4285-A12A-DCC450640AEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_11", "Lesson_11\Lesson_11.csproj", "{AE206773-0D35-4B13-8435-3BDEECF78209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UkrainianStringLibrary", "UkrainianStringLibrary\UkrainianStringLibrary.csproj", "{44EDCAAA-685E-441B-9D72-736405651123}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{CA5266E7-354A-43DB-8F5E-E04DA8ECA3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -72,5 +73,19 @@ Global
 		{AEA58C46-6DFA-4285-A12A-DCC450640AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEA58C46-6DFA-4285-A12A-DCC450640AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEA58C46-6DFA-4285-A12A-DCC450640AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE206773-0D35-4B13-8435-3BDEECF78209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE206773-0D35-4B13-8435-3BDEECF78209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE206773-0D35-4B13-8435-3BDEECF78209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE206773-0D35-4B13-8435-3BDEECF78209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44EDCAAA-685E-441B-9D72-736405651123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44EDCAAA-685E-441B-9D72-736405651123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44EDCAAA-685E-441B-9D72-736405651123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44EDCAAA-685E-441B-9D72-736405651123}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D15919B2-9707-49B7-802B-6D85FC6623AF}
 	EndGlobalSection
 EndGlobal
