@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UkrainianStringLibrary", "U
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_12", "Lesson_12\Lesson_12.csproj", "{CE165B2F-5C1E-4547-86C7-FDA8ADAC0625}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_13", "Lesson_13\Lesson_13.csproj", "{25F5C429-2B59-4E63-8997-82BD7837C90A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{CE165B2F-5C1E-4547-86C7-FDA8ADAC0625}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE165B2F-5C1E-4547-86C7-FDA8ADAC0625}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE165B2F-5C1E-4547-86C7-FDA8ADAC0625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25F5C429-2B59-4E63-8997-82BD7837C90A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F5C429-2B59-4E63-8997-82BD7837C90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F5C429-2B59-4E63-8997-82BD7837C90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F5C429-2B59-4E63-8997-82BD7837C90A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
